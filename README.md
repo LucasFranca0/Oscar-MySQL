@@ -1,4 +1,5 @@
-# MySQL_OSCAR
+# MySQL_OSCAR <img align="center" alt="Lucas-MySql" height="90" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
 
 
 # E o Oscar vai para... ? #
